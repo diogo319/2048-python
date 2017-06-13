@@ -1,0 +1,2 @@
+numero=a42557
+amigos=a41102,a41513
